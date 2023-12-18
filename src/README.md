@@ -191,11 +191,6 @@ highlights:
         link: https://www.wesinx.com
 
       - title: 待补充
-        icon: image
-        details: 待补充
-        link: https://www.wesinx.com
-
-      - title: 待补充
         icon: puzzle-piece
         details: 待补充
         link: https://www.wesinx.com
