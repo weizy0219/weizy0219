@@ -52,6 +52,6 @@ jobs:
           host: ${HOST}
           username: ${SSHNAME}
           key: ${SSHKEY}
-          port: ${PORT}
+          port: 222
           source: "src/.vuepress/dist/*"
           target: ${TARGET}          
