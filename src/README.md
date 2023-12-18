@@ -185,15 +185,15 @@ highlights:
         details: 维思个人文件与文档存储（需权限）
         link: http://www.wesinx.cn:5002
 
-      - title: 待补充
+      - title: 看板接口
         icon: square-check
-        details: 待补充
-        link: https://www.wesinx.com
+        details: 维思内部项目管理看板系统
+        link: https://www.wesinx.cn:5019
 
-      - title: 待补充
+      - title: AI Speech
         icon: puzzle-piece
-        details: 待补充
-        link: https://www.wesinx.com
+        details: 智能语音转文字接口 Whisper
+        link: https://www.wesinx.cn:5018
 
       - title: 待补充
         icon: chart-simple
