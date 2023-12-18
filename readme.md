@@ -1,0 +1,9 @@
+Confucius said, "Is it not a joy, having friends come from afar?" Thank you for visiting and showing interest in my profile. I maintain a Chinese version blog, [Tech Medley Pie](www.weizhiyong.com), which focuses on programming, design, and industrial technology. The website has been gradually built and updated since 2005, mainly containing technical articles and essays from my personal and professional life.
+
+I was born in the '80s and graduated with a degree in automation. I have nearly 20 years of experience in industrial automation and test measurement. I am proficient in PLC, SCADA software, LabVIEW, Matlab, AutoCAD, Eplan, and other industrial design software, languages, and tools. I am also well-versed in switchgear testing, inspection techniques, and familiar with the design and implementation process of industrial automation projects.
+
+The programming languages I am familiar with include C, C++, C#, JavaScript, Python, etc., with a strong emphasis on C, C#, and JavaScript. In recent years, I have been working on industrial internet and IoT product development and project practices based on C# and TypeScript (JavaScript), mainly focusing on smart energy, energy consumption monitoring, and predictive maintenance of equipment. My GitHub repositories contain important open-source projects and modules of my work, and there are also forked repositories that I have used.
+
+Confucius said, "It's like carving and polishing, like grinding and refining." The development and improvement of this site cannot be separated from your valuable opinions and suggestions. You are welcome to communicate with me through any means. Wishing you good health and success in all your endeavors.
+
+<a href="https://www.buymeacoffee.com/weizy0219" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
