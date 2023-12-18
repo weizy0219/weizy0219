@@ -49,9 +49,9 @@ jobs:
       - name: 部署到 Synology NAS
         uses: appleboy/scp-action@master
         with:
-          host: ${HOST}
-          username: ${SSHNAME}
-          key: ${SSHKEY}
+          host: ${{secrets.HOST}}
+          username: ${{secrets.SSHNAME}}
+          key: ${{secrets.SSHKEY}}
           port: 222
           source: "src/.vuepress/dist/*"
-          target: ${TARGET}          
+          target: ${{secrets.TARGET}}
